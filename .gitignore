@@ -3,4 +3,4 @@ tmp/
 *_backup
 img/Thumbs.db/*
 .DS_Store/*
-.png_backup/*
+*.png_backup
